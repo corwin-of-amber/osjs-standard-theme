@@ -44,6 +44,6 @@
   }
 }
 
-.osjs-panel-item[data-name="windows"] > div {
+.osjs-panel-item[data-name="windows"] > .osjs-panel-item-content > div {
   transition: all ease-in-out 0.1s;
 }

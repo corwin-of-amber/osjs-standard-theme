@@ -37,7 +37,7 @@
 }
 
 .osjs-panel-item[data-name=windows] {
-  & > div[data-focused=false] > * {
+  & > .osjs-panel-item-content > div[data-focused=false] > * {
     opacity: 0.5;
   }
 }
